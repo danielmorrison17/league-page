@@ -1,9 +1,8 @@
 // 3 managers as an example (remove the // before each line to make it live code)
 export const managers = [
-  // {
-  //   "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+   {
+     "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
   //   "name": "Your Name",
-  //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
   //   "location": "Brooklyn",
   //   "bio": "Lorem ipsum...",
   //   "photo": "/managers/name.jpg", // done
